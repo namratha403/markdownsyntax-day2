@@ -63,3 +63,22 @@ fun()
 ## add collage website link
 
 ## add college website link
+- git init
+- git status
+- git branch(current working branch)
+- git add file name(add files into staginging area)
+- git remote
+- git remote -v(current remotes in ur repo)
+- git clone "url"(it will copy rpo files into ur local system)
+- git remote add remotename "repolink"(creates a remote)
+- git log(the commited history)
+- git log--oneline(commited history in single line)
+- git revert filename(undo the changes)
+- git reset filename(reset file references)
+- git rm filename(remove file name)
+- git config user.name "username"
+- git config user.email"user.email "user email"(to commit ur changes along with message)
+- git push remotename branchname
+- git commit -m "mesage"
+- git pull remotename branch name
+- 
