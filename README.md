@@ -44,3 +44,13 @@ def fun()
  ## function calling
  `
  fun()`
+## task code2 function defination 
+```
+def fun();
+    print("hello world")
+```
+## function calling
+`
+fun()
+`
+```
