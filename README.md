@@ -30,3 +30,9 @@ jmsghienbkleuji
     2.CSCB
  4. CIVIL
  5. MECH
+- ECE
+            * ECEA
+            * ECEB
+- EEE
+             * EEEA
+             * EEEB
