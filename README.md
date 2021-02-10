@@ -26,7 +26,7 @@ jmsghienbkleuji
 1. ece
 2. eee
 3. csc
-  1.cscA
-  2.CSCB
+    1.cscA
+    2.CSCB
  4. CIVIL
  5. MECH
