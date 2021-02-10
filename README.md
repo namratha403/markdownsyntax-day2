@@ -82,3 +82,5 @@ fun()
 - git commit -m "mesage"
 - git pull remotename branch name
 - 
+## inserting images
+![ammu](https://github.com/namratha403/markdownsyntax-day2/blob/master/download%20(2).jpg)
