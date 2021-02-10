@@ -53,11 +53,13 @@ def fun();
 `
 fun()
 `
-```
 
 ## links
-[google](https://www.google.com/)
+.[google].(https://www.google.com/)
 
 ## add gmail link
+.[gmail].(namratham246@gmail.com)
+
+## add collage website link
 
 ## add college website link
