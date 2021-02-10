@@ -1,7 +1,16 @@
-# markdownsyntax-day2
-day2kits ece about markdown syntax
 # home automation by alexa
-#3 components
+# components
 ### circuit diagram
 #### analysis
 ##### symbol
+## bold text
+**sample text**
+
+_sample text_
+## italic text
+*sample text*
+
+_sample text_
+
+## bolt and italic
+**_sample text_**
