@@ -31,8 +31,8 @@ jmsghienbkleuji
  4. CIVIL
  5. MECH
 - ECE
-            * ECEA
-            * ECEB
+    * ECEA
+    * ECEB
 - EEE
-             * EEEA
-             * EEEB
+    * EEE
+    * EEEB
