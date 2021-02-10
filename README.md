@@ -84,3 +84,5 @@ fun()
 - 
 ## inserting images
 ![ammu](https://github.com/namratha403/markdownsyntax-day2/blob/master/download%20(2).jpg)
+## inswrting vedio
+[![MAS](https://img.youtube.com/vi/nCNqPgXDYhY/0.jpg)].(https://www.youtube.com/watch?v=nCNqPgXDYhY)
